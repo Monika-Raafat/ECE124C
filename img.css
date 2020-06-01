@@ -1,0 +1,66 @@
+.bar
+{
+	background: #CB4335;
+	list-style: none ;
+	border: 10px solid #A93226 ;
+	border-radius: 10px ;
+	margin: 70px 10px ;
+	padding: 10px ;
+	min-height: 300px;
+	position: fixed;
+	top: 10px;
+	line-height: 100px;
+	text-align: center;
+}
+a.h ,.n ,.t ,.r ,.g
+{
+	text-decoration: none;
+	color:#FDFEFE;
+	font: oblique bold arial,serif,tahoma;
+	text-align: center;
+}
+a:hover 
+{
+	color: #F1C40F ;
+	font-weight: bold;
+	text-decoration: underline;
+
+
+}
+body
+{
+	background:  url('https://www.underconsideration.com/brandnew/archives/fc_barcelona_patterns_02.jpg') repeat scroll center;
+	position: relative;
+	height: 1105px;
+}
+
+.tit
+{
+	font:bold 400% "arial black",tahoma; 
+	color: #F1C40F;
+	text-align: left;
+	text-indent: 190px;
+	line-height: 5%;
+
+}
+img
+{
+	width: 27%;
+	height: 270px;
+	float: right;
+	margin: 1.5%;
+
+
+}
+.stade
+{
+	font: bolder 200% "Courier New , tahoma" ;
+	color: #F39C12;
+	text-align: center;
+	text-transform: capitalize;
+	position: absolute;
+	top: 1010px; 
+	right: 367px;
+	background: url("https://images1.pixlis.com/background-image-horizontal-lines-and-stripes-seamless-tileable-red-maroon-22h2gx.png") ;  
+	
+}  

@@ -1,0 +1,123 @@
+.bar
+{
+	background: #CB4335;
+	list-style: none ;
+	border: 10px solid #A93226 ;
+	border-radius: 10px ;
+	margin: 70px 10px ;
+	padding: 10px ;
+	min-height: 300px;
+	position: fixed;
+	top: 10px;
+	line-height: 100px;
+	text-align: center;
+}
+a.h ,.n ,.t ,.r ,.g
+{
+	text-decoration: none;
+	color:#FDFEFE;
+	font: oblique bold arial,serif,tahoma;
+	text-align: center;
+}
+a:hover 
+{
+	color: #F1C40F ;
+	font-weight: bold;
+	text-decoration: underline;
+
+
+}
+body
+{
+	background:  url('https://www.underconsideration.com/brandnew/archives/fc_barcelona_patterns_02.jpg') repeat scroll center;
+	position: relative;
+}
+
+img
+{
+	border-radius: 20px;
+	width: 30%;
+	height: 270px;
+	display: block;
+	margin: 20px;
+	border:5px solid #17202A    ;
+
+}
+.m1
+{
+	position: absolute;
+	top: 60px;
+	right: 30px;
+
+}
+.m2
+{
+    position: absolute;
+	top: 390px;
+	right: 720px;	
+}
+.m3
+{
+	position: absolute;
+	top: 700px;
+	right: 30px;
+}
+
+.news
+{
+	font:bold 400% "arial black",tahoma; 
+	color: #F1C40F;
+	text-align: left;
+	text-indent: 190px;
+	line-height: 5%;
+
+}
+
+ 
+.n1 
+{
+	text-indent: 70px;
+	width: 550px; 
+	font: 130% Arial, Helvetica, sans-serif;
+	color:  #F7DC6F;
+	position: absolute;
+	left: 200px;
+	top:110px;
+	line-height: 35px;
+	border:2px ridge #CB4335 ;
+	border-radius: 30px;
+	padding: 30px;
+	margin: 10px;
+
+}
+.n2
+{
+    text-indent: 70px;
+	width: 600px; 
+	font:  130% Arial, Helvetica, sans-serif;
+	color: #F7DC6F;	
+	position: absolute;
+	right:30px;
+	top:445px;
+	line-height: 35px;
+	border:2px ridge #CB4335 ;
+	border-radius: 30px;
+	padding: 30px;
+	margin: 10px;
+
+}
+.n3
+{
+    text-indent: 70px;
+	width: 600px; 
+	font:  130% Arial, Helvetica, sans-serif;
+	color: #F7DC6F;	
+	position: absolute;
+	right:490px;
+	top:730px;
+	line-height: 35px;
+	border:2px ridge #CB4335 ;
+	border-radius: 30px;
+	padding: 30px;
+	margin: 10px;	
+}
